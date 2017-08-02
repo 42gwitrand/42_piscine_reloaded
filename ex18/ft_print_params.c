@@ -1,3 +1,5 @@
+void    ft_putchar(char c);
+
 void	print_para(char *str)
 {
   int	i;

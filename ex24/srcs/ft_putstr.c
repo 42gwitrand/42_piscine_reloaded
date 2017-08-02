@@ -1,4 +1,4 @@
-void    ft_putchar(char c);
+#include "inc.h"
 
 void	ft_putstr(char *str)
 {
